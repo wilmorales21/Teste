@@ -1,5 +1,5 @@
-Meu primeiro projeto no GIT.
+Meu segundo projeto no GIT.
 
 Eu fiz uma alteração no arquivo README.txt para descrever melhor meu sistema.
 
-usando o comando soft
+Eu atualizei o arquivo readme.txt
